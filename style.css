@@ -1,0 +1,12 @@
+body
+{
+    /* background-color: rgb(77, 166, 255); */
+    align-items: center;
+    text-align: center;
+}
+
+#changer
+{
+    justify-content: center;
+    align-items: center;
+}
