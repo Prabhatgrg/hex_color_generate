@@ -87,6 +87,7 @@ body
 .btn
 {
     margin-top: 1.5rem;
+    padding: 8px 0;
     justify-content: center;
     align-items: center;
     background-color: black;
@@ -104,5 +105,6 @@ body
 .btn:hover
 {
     background-color: rgb(13, 255, 0);
-    transition: 2s;
+    cursor: pointer;
+    transition: all 1s ease-in-out;
 }
